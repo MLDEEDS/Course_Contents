@@ -42,12 +42,53 @@
     - Regex
   - Utilities
     - Try … Except
+      - Exceptions
     - User Input
 
 </details>
 <details>
   <summary><b>Python (Intermediate)</b></summary>
+    
+- Files
+    - Create
+    - Open/Close
+    - Read/Write
+    - Delete
+- Modules
+    - Random
+    - Math and cMath
+    - Requests
+    - Statistics
+- Built-in Functions
+    - General
+    - Strings
+    - Lists
+    - Sets
+    - Tuples
+    - Dictionaries
+    - Arrays
+    - Files
+- Databases
+    - MySQL
+        - Create Database
+        - Create Table
+        - Insert
+        - Select
+        - Update
+        - Delete
+        - Drop Table
+        - Limit
+        - Order by
+        - Join
+
 </details>
 <details>
   <summary><b>Python (Advanced)</b></summary>
+
+- Modules
+  - NumPy
+  - SciPy
+  - Pandas
+  - Matplotlib
+
 </details>
