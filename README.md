@@ -86,9 +86,74 @@
   <summary><b>Python (Advanced)</b></summary>
 
 - Modules
+
   - NumPy
+
+    - Intro
+    - Data Types
+    - Arrays
+      - 1D, 2D, and nD
+      - Shape of Arrays
+      - Copy and View
+    - Indexing
+      - Negative Indexing
+    - Slicing
+    - Reshaping
+    - Iterating
+    - Join and Split
+    - Sorting
+    - Filtration
+    - Searching
+    - Randomization
+    - Data Distribution
+      - Normal
+      - Uniform
+      - Binormal
+      - Logistic
+      - Pareto
+    - Universal Functions (uFuncs)
+      - Arithmatic
+      - Logs
+      - Hyperbolic
+
   - SciPy
+    - Intro
+    - Constants
+    - Optimizers
+    - Working with Sparse Data
+    - Spatial Data
+    - Graphs
+    - Interpolation
+    - Statistical Significance Tests
   - Pandas
+    - Intro
+    - Series
+    - DataFrames
+    - Reading from Files
+      - JSON
+      - CSV
+      - TXT
+    - Analyzing Data
+    - Cleaning Data
+    - Exporting
+    - Correlations
+    - Plotting
   - Matplotlib
+    - Intro
+    - Plotting
+      - Lines
+      - Markers
+      - Labels
+      - Grids
+    - Subplots
+    - Charts
+      - Bars
+      - Histogram
+      - Scatter
+      - Pie
+    - More
+      - Legends
+      - Shadows
+      - Colors
 
 </details>
