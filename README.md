@@ -1,4 +1,4 @@
-# Course Contents
+# Data Science Course Syllabus
 
 <details>
   <summary><b>Python (Beginner)</b></summary>
