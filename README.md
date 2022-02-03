@@ -157,3 +157,38 @@
       - Colors
 
 </details>
+
+<details>
+  <summary><b>Machine Learning in Python</b></summary>
+
+- Intro
+- Data Sets
+- Statistics
+  - Mean
+  - Mode
+  - Median
+  - Variance
+  - Standard Deviation
+  - Percentiles
+- Data Distributions
+  - Concepts
+  - Visualization
+- Regression
+  - Fitting
+  - Types
+    - Linear Regression
+    - Polynomial Regression
+    - Multiple Regression
+  - Relationship Extraction
+  - Coefficient
+  - Prediction
+  - Result Explained
+- Scale Features
+- Data Split
+  - Train, Test, and Evaluation
+  - Visualization
+- Classification
+- Prediction
+- Decision Trees
+
+</details>
