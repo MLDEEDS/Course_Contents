@@ -1,5 +1,7 @@
 # Data Science Course Syllabus
 
+![DataScience MLDeeds](contents/DataScienceMLDeeds.jpg "DataScience MLDeeds")
+
 <details>
   <summary><b>Python (Beginner)</b></summary>
 
