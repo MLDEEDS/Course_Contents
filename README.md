@@ -10,42 +10,45 @@
 - General Syntax
 - Comments
 - Variables
+  - Global Variables
 - PIP Package Manager
-  - Data Types
-    - Numbers
-    - Strings
-      - String Formatting
-    - Booleans
-    - Type Castings
-  - Data Structures
-    - Lists
-    - Sets
-    - Tuples
-    - Dictionaries
-    - Arrays
-  - Operations
-    - Simple Operators
-    - If-else
-    - While Loops
-    - For Loops
-  - Blocks
-    - Functions (methods)
-      - Variable Scopes
-      - Lambda Functions
-    - Classes and Objects
-      - Inheritance
-      - Iterators
-  - Modules
-    - OS
-    - Globe
-    - Math
-    - JSON
-    - Date
-    - Regex
-  - Utilities
-    - Try … Except
-      - Exceptions
-    - User Input
+- Data Types
+  - Numbers
+  - Strings
+    - String Formatting
+  - Booleans
+  - Type Castings
+- Data Structures
+  - Lists
+  - Tuples
+  - Sets
+  - Dictionaries
+  - Arrays
+- Operations
+  - Simple Operators
+  - If-else (Control flow)
+  - While Loops
+  - For Loops
+  - Break and Continue
+- Blocks
+  - Functions (methods)
+    - Variable Scopes
+    - Lambda Functions
+    - Call by Value or Reference
+  - Classes and Objects
+    - Inheritance
+    - Iterators
+- Modules
+  - OS
+  - Globe
+  - Math
+  - JSON
+  - Date Time
+  - Regex
+- Utilities
+  - Try … Except
+    - Exceptions
+- User Inputs
 
 </details>
 <details>
@@ -72,16 +75,16 @@
     - Files
 - Databases
     - MySQL
-        - Create Database
-        - Create Table
-        - Insert
-        - Select
-        - Update
-        - Delete
-        - Drop Table
-        - Limit
-        - Order by
-        - Join
+      - Create Database
+      - Create Table
+      - Insert
+      - Select
+      - Update
+      - Delete
+      - Drop Table
+      - Limit
+      - Order by
+      - Join
 
 </details>
 <details>
@@ -131,6 +134,13 @@
     - Intro
     - Series
     - DataFrames
+      - Create
+      - Select
+      - Insert
+      - Slice
+      - Describe
+      - Sort
+      - Merge
     - Reading from Files
       - JSON
       - CSV
@@ -149,14 +159,16 @@
       - Grids
     - Subplots
     - Charts
-      - Bars
+      - Line Chart
+      - Bar Chart
       - Histogram
       - Scatter
-      - Pie
+      - Pie Chart
     - More
       - Legends
       - Shadows
       - Colors
+      - Customizations
 
 </details>
 
