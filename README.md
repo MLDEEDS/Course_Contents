@@ -173,9 +173,16 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning in Python</b></summary>
+  <summary><b>Machine Learning in Python (Basics)</b></summary>
 
 - Intro
+  - Machine Learning Basics
+    - A Brief Overview
+    - Data Acquisition (Sensors)
+    - Key Tasks of ML
+      - Supervised Learning
+      - Unsupervised Learning
+  - Why using Python?
 - Data Sets
 - Statistics
   - Mean
@@ -204,5 +211,90 @@
 - Classification
 - Prediction
 - Decision Trees
+
+</details>
+
+<details>
+  <summary><b>Machine Learning in Python (Fundamental I)</b></summary>
+
+- Steps of ML Algorithms
+  - Data Collection
+  - Data Preparation
+  - Input Data Analysis
+  - Training
+  - Testing and Evaluation
+    - Performance Metrics
+      - Error Rate
+      - Precision
+      - Recall
+- Supervised Learning
+  - Classification
+    - Task Intro
+    - k-Nearest Neighbors (KNN)
+      - Algorithm Intro
+      - Loading and Parsing Data
+      - Distance Measurements
+      - Normalizing Values
+      - Testing the Classifier
+      - Project: Handwritten Digits Recognition
+    - Decision Trees
+      - Algorithm Intro
+      - Information Gain
+      - Splitting Data
+        - Finding the Best Feature to Split on
+        - Tree-building
+      - Plotting the Tree
+      - Testing the Classifier
+      - Project: Buying a Car
+    - Naïve Bayes
+      - Algorithm Intro
+      - Probability Theory
+        - Bayesian Decision Theory
+        - Conditional Probability
+      - Classification based on Probabilities
+      - Bag of Words (BoW) Model
+      - Modifying the Classifier
+      - Testing the Classifier
+      - Displaying the Targets
+      - Project: Text (Documents) Classification
+      - Project: Junk Email Classification
+
+</details>
+
+<details>
+  <summary><b>Machine Learning in Python (Fundamental II)</b></summary>
+
+- Supervised Learning
+  - Classification
+    - Logistic Regression
+      - Task Intro
+        - The Sigmoid Function
+      - Classification with Logistic Regression
+      - Optimization
+        - Finding the Best Coefficients
+        - Gradient Ascent Optimization (GAO)
+        - Gradient Descent Optimization (GDO)
+      - Plotting the Decision Boundary
+      - Missing Values
+      - Project: Finding Important Academic Factors for Job Seekers
+    - Support Vector Machines (SVM)
+      - Algorithm Intro
+      - Data Separation
+        - Finding the Maximum Margines
+      - Optimization
+        - Platt’s SMO Algorithm
+      - Kernels
+        - Data Mapping
+      - Testing the Algorithm
+      - Project: Handwritten Digits Recognition
+    - AdaBoost
+      - Algorithm Intro
+      - Combining Classifiers
+      - Bagging
+      - Boosting
+      - Improving the Classifier
+      - Weak Learners
+      - Testing the Classifier
+      - Project: Handwritten Digits Recognition
 
 </details>
