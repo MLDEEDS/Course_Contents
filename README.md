@@ -298,3 +298,34 @@
       - Project: Handwritten Digits Recognition
 
 </details>
+
+<details>
+  <summary><b>Machine Learning in Python (Fundamental III)</b></summary>
+
+- Supervised Learning
+  - Regression
+    - Linear Regression
+      - Task Intro
+      - Best-fit Lines
+      - Standard Regression Function
+      - Locally Weighted Function
+      - Ridge Regression
+        - Coefficients
+      - Forward Stagewise Regression
+    - Tree-based Regression
+      - Task Intro
+      - Modeling Complex Data
+      - Tree Building
+        - Continuous Features
+        - Discrete Features
+        - CART Approach
+      - Tree Splitting
+      - Tree Pruning
+        - Prepruning
+        - Postpruning
+      - Model Trees
+    - Project: Age Prediction
+    - Project: Weather Temperature Forecast
+    - Project: Price Prediction
+
+</details>
