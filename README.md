@@ -18,13 +18,13 @@
     - String Formatting
   - Booleans
   - Type Castings
-- Data Structures
+- Data Structures (Collections)
   - Lists
   - Tuples
   - Sets
   - Dictionaries
   - Arrays
-- Operations
+- Operations and Control Structure
   - Simple Operators
   - If-else (Control flow)
   - While Loops
@@ -362,32 +362,44 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning in Python (Unsupervised Learning)</b></summary>
+  <summary><b>Machine Learning in Python (Tools)</b></summary>
 
-- Unsupervised Learning
-  - Clustering
-    - Task Intro
-    - k-Means Clustering
-      - Algorithm Intro
-      - Support Functions
-      - Post-processing and Performance Improvement
-      - Bisecting k-means
-      - Project: Clustering Geo-coordinates
-    - Apriori Algorithm
-      - Algorithm Intro
-        - Principles
-      - Association Mining and Analysis
-      - Finding Frequent Itemsets
-      - Mining Association Rules
-      - Project: Voting Patterns Analysis
-    - FP-growth
-      - Algorithm Intro
-      - Finding Common Patterns
-      - FP-trees
-        - Data Structure
-        - Construction of Trees
-        - Mining Frequent Items
-        - Pattern Extraction
-      - Project: Finding Co-occurring Words
+- Principal Component Analysis (PCA)
+  - Task Intro
+  - Data Simplification
+  - Dimensionality Reduction
+    - Goals
+  - PCA Concepts
+    - Moving the Coordinate Axes
+    - A Usage Example in NumPy
+    - Missing Values Replacement
+  - Project: Dimensionality Reduction in Factories Data
+- Singular Value Decomposition (SVD)
+  - Task Intro
+  - Matrix Factorization (MF)
+  - Latent Semantic Indexing (LSI)
+  - Applications in Practice
+    - Recommender Systems (RecSys)
+      - Collaborative Filtering
+      - Measuring Similarity
+        - Item-based Similarity
+        - User-based Similarity
+      - Rating Estimation
+  - SVD in Python
+  - Project: Food Recommender
+  - Project: Fashion Recommender
+  - Project: Image Compression
+- Big Data
+  - Task Intro
+  - MapReduce
+    - Algorithm Intro
+    - Applications
+  - Hadoop Streaming
+    - Intro
+    - Distributed Mapper/Reducer
+    - Mrjob in Python
+    - Running Jobs in AWS
+    - Running Jobs in EMR
+  - Project: Distributed SVM
 
 </details>
