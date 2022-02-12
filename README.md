@@ -215,7 +215,7 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning in Python (Fundamental I)</b></summary>
+  <summary><b>Machine Learning in Python (Fundamental)</b></summary>
 
 - Steps of ML Algorithms
   - Data Collection
@@ -262,7 +262,7 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning in Python (Fundamental II)</b></summary>
+  <summary><b>Machine Learning in Python (Supervised Learning I)</b></summary>
 
 - Supervised Learning
   - Classification
@@ -300,7 +300,7 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning in Python (Fundamental III)</b></summary>
+  <summary><b>Machine Learning in Python (Supervised Learning II)</b></summary>
 
 - Supervised Learning
   - Regression
@@ -331,7 +331,38 @@
 </details>
 
 <details>
-  <summary><b>Machine Learning in Python (Fundamental IV)</b></summary>
+  <summary><b>Machine Learning in Python (Unsupervised Learning)</b></summary>
+
+- Unsupervised Learning
+  - Clustering
+    - Task Intro
+    - k-Means Clustering
+      - Algorithm Intro
+      - Support Functions
+      - Post-processing and Performance Improvement
+      - Bisecting k-means
+      - Project: Clustering Geo-coordinates
+    - Apriori Algorithm
+      - Algorithm Intro
+        - Principles
+      - Association Mining and Analysis
+      - Finding Frequent Itemsets
+      - Mining Association Rules
+      - Project: Voting Patterns Analysis
+    - FP-growth
+      - Algorithm Intro
+      - Finding Common Patterns
+      - FP-trees
+        - Data Structure
+        - Construction of Trees
+        - Mining Frequent Items
+        - Pattern Extraction
+      - Project: Finding Co-occurring Words
+
+</details>
+
+<details>
+  <summary><b>Machine Learning in Python (Unsupervised Learning)</b></summary>
 
 - Unsupervised Learning
   - Clustering
