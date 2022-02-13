@@ -1,4 +1,4 @@
-# Data Science Course Syllabus
+# Machine Learning Basics Course Syllabus
 
 ![DataScience MLDeeds](contents/DataScienceMLDeeds.jpg "DataScience MLDeeds")
 
