@@ -194,6 +194,8 @@
 - Data Distributions
   - Concepts
   - Visualization
+- Classification
+  - Prediction
 - Regression
   - Fitting
   - Types
@@ -208,8 +210,5 @@
 - Data Split
   - Train, Test, and Evaluation
   - Visualization
-- Classification
-- Prediction
-- Decision Trees
 
 </details>
