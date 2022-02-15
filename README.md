@@ -184,6 +184,7 @@
       - Unsupervised Learning
   - Why using Python?
 - Data Sets
+  - Types of Data
 - Statistics
   - Mean
   - Mode
