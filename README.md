@@ -178,13 +178,26 @@
 - Intro
   - Machine Learning Basics
     - A Brief Overview
-    - Data Acquisition (Sensors)
+    - Data
+      - Attributes
+        - Discrete and Continuous
+      - Data Acquisition
     - Key Tasks of ML
       - Supervised Learning
       - Unsupervised Learning
   - Why using Python?
 - Data Sets
   - Types of Data
+    - Record Data
+    - Data Matrix
+    - Document Data
+    - Transaction Data
+    - Graph Data
+  - Dimensionality
+  - Data Quality
+    - Noise
+    - Missing Values
+    - Duplication
 - Statistics
   - Mean
   - Mode
