@@ -221,8 +221,8 @@
   - Prediction
   - Result Explained
 - Scale Features
-- Data Split
-  - Train, Test, and Evaluation
+- Evaluation
+  - Train, Test, and Dev Sets
   - Visualization
 
 </details>
