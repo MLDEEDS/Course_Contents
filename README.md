@@ -208,21 +208,33 @@
 - Data Distributions
   - Concepts
   - Visualization
+  - Evaluation
+    - Train, Test, and Dev Sets
+    - Visualization
+- Scale Features
 - Classification
-  - Prediction
+  - Concepts
+    - Prediction
+    - Classification Types
+    - Lazy/Eager Learning
+  - Classifiers
+    - Decision Trees
+    - Neural Networks
+    - Rule-based Methods
+    - Others
+  - Use cases
 - Regression
-  - Fitting
+  - Concepts
+    - Fitting
+    - Coefficient
+    - Prediction
   - Types
     - Linear Regression
     - Polynomial Regression
     - Multiple Regression
+    - Others
   - Relationship Extraction
-  - Coefficient
-  - Prediction
-  - Result Explained
-- Scale Features
-- Evaluation
-  - Train, Test, and Dev Sets
-  - Visualization
+    - Result Explained
+  - Use cases
 
 </details>
